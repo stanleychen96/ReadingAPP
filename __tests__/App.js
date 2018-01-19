@@ -1,3 +1,10 @@
+
+/*
+ * Revision History:
+ *     Initial: 2018/01/19        StanleyChen
+ */
+
+
 import 'react-native';
 import React from 'react';
 import App from '../App';
